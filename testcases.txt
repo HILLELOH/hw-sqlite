@@ -1,0 +1,15 @@
+case=Test 1
+input=בני גנץ,יאיר לפיד
+output=47
+
+case=Test 2
+input=בנימין נתניהו,יולי אדלשטיין
+output=11
+
+case=Test 3
+input=ניר ברקת,נפתלי בנט
+output=-45
+
+case=condorcet_winner
+input=condorcet_winner
+output=/.*/i
